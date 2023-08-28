@@ -1,0 +1,9 @@
+.social-media {
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #f6f3e2;
+}
+
+p {
+    word-wrap: break-word;
+}
